@@ -1,0 +1,16 @@
+512	/mnt/tmp
+1.0K	/mnt/archive
+3.0K	/mnt/boot
+3.5K	/mnt/dev
+12K	/mnt/qtembedded-0
+12K	/mnt/var
+39K	/mnt/home
+1.3M	/mnt/scripts
+1.6M	/mnt/etc
+2.3M	/mnt/sbin
+3.8M	/mnt/bin
+9.4M	/mnt/ifs
+15M	/mnt/lib
+24M	/mnt/codesys
+36M	/mnt/mnt
+456M	/mnt/usr
